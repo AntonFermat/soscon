@@ -16,4 +16,11 @@ Project Code - https://github.com/AntonFermat/gpbackup
 Implement LZ4 compression support
 * **linux assembly** - distr/gpbackup_1.21+soscon.tar.gz
   * check - distr/gpbackup_1.21+soscon.tar.gz.sha512
+
 ### Плагин безопасности для OpenSearch и Ranger
+Project Code - https://github.com/AntonFermat/ranger
+
+Implement OpenSearch plugin for Apache Ranger
+
+* **plugin assembly** - distr/ranger-3.0.0-soscon-opensearch-plugin.tar.gz
+  * check - distr/ranger-3.0.0-soscon-opensearch-plugin.tar.gz.sha512
